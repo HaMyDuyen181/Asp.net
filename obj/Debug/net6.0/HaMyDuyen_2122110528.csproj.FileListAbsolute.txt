@@ -66,3 +66,4 @@ D:\IT\ASP.net\HaMyDuyen_2122110528\bin\Debug\net6.0\runtimes\win\lib\netstandard
 D:\IT\ASP.net\HaMyDuyen_2122110528\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\IT\ASP.net\HaMyDuyen_2122110528\bin\Debug\net6.0\Humanizer.dll
 D:\IT\ASP.net\HaMyDuyen_2122110528\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT\ASP.net\HaMyDuyen_2122110528\obj\Debug\net6.0\HaMyDuyen_2122110528.sourcelink.json
